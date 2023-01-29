@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+    <HelloWorld msg="Para poder ver los productos hay que  Iniciar Sesión"/> 
   </div>
 </template>
 
@@ -16,3 +15,7 @@ export default defineComponent({
   },
 });
 </script>
+<style>
+
+</style>
+
